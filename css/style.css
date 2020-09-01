@@ -1,0 +1,144 @@
+/* * {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  margin-top: 80px;
+  align-content: center;
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: gray;
+  width: 900px;
+  height: 40px;
+  border-radius: 3%px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar ul {
+  display: flex;
+  margin: 0;
+}
+
+.navbar li {
+  width: 100px;
+  justify-content: center;
+  display: flex;
+  margin: 0px;
+}
+
+.navbar .search {
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 100px;
+}
+
+input {
+  width: 70px;
+}
+
+li a {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a span {
+  color: white;
+}
+
+.icon {
+  color: white;
+  font-size: 150%;
+} */
+
+/****************BACKGROUND STYLES***************/
+.background {
+  /* background-image: url(../Images/background.jpg); */
+  background-color: pink;
+  position: absolute;
+  width: 100%;
+  margin: 0;
+}
+
+/*************************************************/
+
+* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.backg-img {
+  background: url(https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg) 50% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+
+.main-txt {
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-weight: lighter;
+  font-size: 70px;
+  margin-bottom: 30px;
+}
+
+.main-txt p {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.sections {
+  display: flex;
+  justify-content: center;
+}
+
+.footer {
+  display: flex;
+  color: #666;
+  font-size: .7rem;
+  margin: 15px;
+}
+
+
+.left {
+  width: 50%;
+  text-align: right;
+}
+
+.left p {
+  padding-bottom: 15px;
+}
+
+.right {
+  width: 50%;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(101, 194, 231);
+}
+
+.footer ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.footer .right .link {
+  padding: 0px 5px;
+  border-right: #666 solid 1px;
+  margin: 0;
+}
+
+.flag {
+  margin-left: 5px;
+}
