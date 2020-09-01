@@ -2,7 +2,7 @@
 
 > Apple website clone, using html and css
 
-![screenshot](./Images/preview.jpg)
+![screenshot](./Images/preview.jpeg)
 
 ## Built With
 
